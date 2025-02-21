@@ -45,10 +45,10 @@ The analysis uses historical data from 2020-2023 for the sales and customer metr
 ## 📸 Screenshots  
 
 ###  Sales Dashboard  
-![Sales](https://github.com/sofoq/Bank-Loan-Analysis/blob/main/Sales-Dashboard.png)  
+![Sales](https://github.com/sofoq/Sales-Customer-Analysis/blob/main/Sales.png)  
 
 ### Overview Dashboard  
-![Customers](https://github.com/sofoq/Bank-Loan-Analysis/blob/main/Customer-Dashboard.png)  
+![Customers](https://github.com/sofoq/Sales-Customer-Analysis/blob/main/Customer.png)  
 
 
 
