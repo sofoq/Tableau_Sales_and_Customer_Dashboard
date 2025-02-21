@@ -14,7 +14,7 @@ The **Sales Dashboard** focuses on tracking sales performance over the selected 
 ### Dashboards:
 - **Sales by Subcategory** 🛍️: A chart visualizing the sales performance by product subcategory.
 - **Profit by Subcategory** 💸: A chart showing the profit by product subcategory.
-- **Sales and Profit Trend Over Time** 📆: A trend chart displaying the sales and profit over weeks for the selected year, with an average line for the selected month.
+- **Sales and Profit Trend Over Time** 📆: A trend chart displaying the sales and profit over weeks for the selected year, with an average line.
 
 ### Interactive Features:
 - All KPIs and charts update dynamically based on the selected year, allowing for a comprehensive year-on-year comparison.
@@ -36,8 +36,7 @@ The **Customer Dashboard** focuses on customer behavior and provides insights in
 - Similar to the Sales Dashboard, all KPIs and charts are responsive to the selected year, providing up-to-date insights into customer trends.
 
 ## How to Use 🛠️
-1. **Select the Year** 📅: Use the interactive filters to select the year you want to analyze. Both dashboards will update based on your selection.
-2. **Explore the Dashboards** 🧐: Review the KPIs and charts to identify trends in sales performance and customer behavior for the selected year.
+1. **Select the Year** 📅: Use the interactive filters to select the year and product and location filters you want to analyze. Both dashboards will update based on your selection.
 
 ## Data Source 📂
 The analysis uses historical data from 2020-2023 for the sales and customer metrics.
