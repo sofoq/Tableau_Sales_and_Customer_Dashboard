@@ -1,4 +1,4 @@
-# Sales and Customer Analysis 📊
+# Sales and Customer Dashboard 📊
 
 This project provides an in-depth analysis of sales and customer data for the years 2020-2023. The analysis is divided into two main dashboards: **Sales Dashboard** and **Customer Dashboard**, with key performance indicators (KPIs) and interactive charts designed to offer insights into sales performance and customer behavior.
 
