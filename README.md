@@ -50,7 +50,3 @@ The analysis uses historical data from 2020-2023 for the sales and customer metr
 ![Customers](https://github.com/sofoq/Sales-Customer-Analysis/blob/main/Customer.png)  
 
 
-
-**Sofo Qaadze**
-  - 📧 [sqaadze2000@gmail.com](mailto:sqaadze2000@gmail.com)
-  - 🔗 [LinkedIn Profile](https://www.linkedin.com/in/sofo-qaadze-ba7895205/)
