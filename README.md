@@ -2,6 +2,11 @@
 
 This project provides an in-depth analysis of sales and customer data for the years 2020-2023. The analysis is divided into two main dashboards: **Sales Dashboard** and **Customer Dashboard**, with key performance indicators (KPIs) and interactive charts designed to offer insights into sales performance and customer behavior.
 
+
+## 🔗 Live Demo  
+Check out the dashboard here: [Sales and Customer Dashboard](https://public.tableau.com/app/profile/sofo.qaadze/viz/Book1_17390261986290/HROVERVIEW)
+
+
 ## 📈 1. Sales Dashboard 
 The **Sales Dashboard** focuses on tracking sales performance over the selected years. It includes the following KPIs and charts:
 
