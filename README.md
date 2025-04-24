@@ -4,7 +4,7 @@ This project provides an in-depth analysis of sales and customer data for the ye
 
 
 ## 🔗 Live Demo  
-Check out the dashboard here: [Sales and Customer Dashboard](https://public.tableau.com/app/profile/sofo.qaadze/viz/Book1_17390261986290/HROVERVIEW)
+Check out the dashboard here: [Sales and Customer Dashboard](https://public.tableau.com/views/SalesCustomerAnalysis_17422063408490/SalesDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 ## 📈 1. Sales Dashboard 
